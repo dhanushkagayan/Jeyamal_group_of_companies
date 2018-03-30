@@ -34,6 +34,8 @@
     <link href="//fonts.googleapis.com/css?family=Jockey+One" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i" rel="stylesheet">
     <!-- //web-fonts -->
+
+
 </head>
 
 <body>
@@ -185,201 +187,31 @@
             <h3 class="title1">Gallery</h3>
             <div class="gallery_grids">
 
-                <div class="col-xs-4 agile-gallery_grid_main">
+<div class="container">
+<div class="row">
 
 
+  <div class="col-md-3">  <a id="example1"  href="images/gallery/2.jpg">
+          <img alt="example1" class="gallery_img"  src="images/gallery/2.jpg" /></a>
+  </div>
 
-                    <div class="gallery-img-grid gallery_grid1 hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/gallery/1.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/gallery/1.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="gallery-img-grid hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/gallery/2.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/gallery/2.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="gallery-img-grid hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/gallery/3.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/gallery/3.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
+  <div class="col-md-3">
+      <a id="example2" href="images/gallery/2.jpg">
+          <img alt="example2" class="gallery_img"  src="images/gallery/2.jpg" /></a>
+  </div>
 
-                    <div class="gallery-img-grid gallery_grid1 hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/gallery/4.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/gallery/4.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="gallery-img-grid hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/gallery/7.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/gallery/7.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="gallery-img-grid hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/gallery/8.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/gallery/8.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
+  <div class="col-md-3">
+      <a id="example3"  href="images/gallery/2.jpg">
+          <img alt="example3" class="gallery_img"  src="images/gallery/2.jpg" /></a>
+  </div>
 
+  <div class="col-md-3">
+      <a id="example4"  href="images/gallery/2.jpg">
+          <img class="gallery_img"  alt="example4" src="images/gallery/2.jpg" /></a>
+  </div>
 
-
-                </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                <div class="col-xs-4 agile-gallery_grid_main">
-
-                    <div class="gallery-img-grid hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/t1.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/t1.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
-
-
-                    <div class="gallery-img-grid hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/t3.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/t3.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="gallery-img-grid hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/11.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/11.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
-
-                </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                <div class="col-xs-4 agile-gallery_grid_main">
-
-
-                    <div class="gallery-img-grid gallery_grid1 hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/gallery/9.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/gallery/9.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="gallery-img-grid hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/gallery/10.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/gallery/10.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="gallery-img-grid hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/gallery/4.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/gallery/4.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="gallery-img-grid gallery_grid1 hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/gallery/1.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/gallery/1.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="gallery-img-grid hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/gallery/7.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/gallery/7.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="gallery-img-grid hover14 column">
-                        <div class="gallery_effect">
-                            <a href="images/gallery/3.jpg" class="sb" title="quis nostrud exercitation ullamco laboris quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum">
-                                <figure>
-                                    <img src="images/gallery/3.jpg" alt=" " class="img-responsive" />
-                                </figure>
-                            </a>
-                        </div>
-                    </div>
-
-
-                </div>
-
-
+</div>
+</div>
 
 
 
@@ -396,21 +228,12 @@
 
 
                 <div class="clearfix"> </div>
-
-
-
-
-
-
-
-
-
-
-
-
             </div>
         </div>
     </div>
+
+
+
     <!-- //gallery -->
     <!--  pricing-->
 
@@ -940,6 +763,103 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/bootstrap.js"></script>
+
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+    <script>
+        !window.jQuery && document.write('<script src="jquery-1.4.3.min.js"><\/script>');
+    </script>
+    <script type="text/javascript" src="./fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+    <script type="text/javascript" src="./fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+    <link rel="stylesheet" type="text/css" href="./fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            /*
+            *   Examples - images
+            */
+
+            $("a#example1").fancybox();
+
+            $("a#example2").fancybox({
+                'overlayShow'	: false,
+                'transitionIn'	: 'elastic',
+                'transitionOut'	: 'elastic'
+            });
+
+            $("a#example3").fancybox({
+                'transitionIn'	: 'none',
+                'transitionOut'	: 'none'
+            });
+
+            $("a#example4").fancybox({
+                'opacity'		: true,
+                'overlayShow'	: false,
+                'transitionIn'	: 'elastic',
+                'transitionOut'	: 'none'
+            });
+
+            $("a#example5").fancybox();
+
+            $("a#example6").fancybox({
+                'titlePosition'		: 'outside',
+                'overlayColor'		: '#000',
+                'overlayOpacity'	: 0.9
+            });
+
+            $("a#example7").fancybox({
+                'titlePosition'	: 'inside'
+            });
+
+            $("a#example8").fancybox({
+                'titlePosition'	: 'over'
+            });
+
+            $("a[rel=example_group]").fancybox({
+                'transitionIn'		: 'none',
+                'transitionOut'		: 'none',
+                'titlePosition' 	: 'over',
+                'titleFormat'		: function(title, currentArray, currentIndex, currentOpts) {
+                    return '<span id="fancybox-title-over">Image ' + (currentIndex + 1) + ' / ' + currentArray.length + (title.length ? ' &nbsp; ' + title : '') + '</span>';
+                }
+            });
+
+            /*
+            *   Examples - various
+            */
+
+            $("#various1").fancybox({
+                'titlePosition'		: 'inside',
+                'transitionIn'		: 'none',
+                'transitionOut'		: 'none'
+            });
+
+            $("#various2").fancybox();
+
+            $("#various3").fancybox({
+                'width'				: '75%',
+                'height'			: '75%',
+                'autoScale'			: false,
+                'transitionIn'		: 'none',
+                'transitionOut'		: 'none',
+                'type'				: 'iframe'
+            });
+
+            $("#various4").fancybox({
+                'padding'			: 0,
+                'autoScale'			: false,
+                'transitionIn'		: 'none',
+                'transitionOut'		: 'none'
+            });
+        });
+    </script>
+
+
+
+
+
+
+
 </body>
 
 </html>
