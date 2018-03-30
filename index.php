@@ -83,7 +83,6 @@
             <div class="clearfix"> </div>
         </div>
         <!-- banner slider -->
-        <!--dhanushka-->
         <div class="slider">
             <ul class="rslides" id="slider">
                 <li>
