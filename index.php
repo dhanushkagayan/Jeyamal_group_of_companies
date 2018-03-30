@@ -187,10 +187,10 @@
             <h3 class="title1">Gallery</h3>
             <div class="gallery_grids">
 
-<div class="container">
+<div align="center" class="container">
 <div class="row">
 
-
+<!--first one-->
   <div class="col-md-3">  <a id="example1"  href="images/gallery/2.jpg">
           <img alt="example1" class="gallery_img"  src="images/gallery/2.jpg" /></a>
   </div>
@@ -209,6 +209,88 @@
       <a id="example4"  href="images/gallery/2.jpg">
           <img class="gallery_img"  alt="example4" src="images/gallery/2.jpg" /></a>
   </div>
+
+
+
+<!--second one-->
+
+    <div class="col-md-3">  <a id="example1"  href="images/gallery/2.jpg">
+            <img alt="example1" class="gallery_img"  src="images/gallery/2.jpg" /></a>
+    </div>
+
+    <div class="col-md-3">
+        <a id="example2" href="images/gallery/2.jpg">
+            <img alt="example2" class="gallery_img"  src="images/gallery/2.jpg" /></a>
+    </div>
+
+    <div class="col-md-3">
+        <a id="example3"  href="images/gallery/2.jpg">
+            <img alt="example3" class="gallery_img"  src="images/gallery/2.jpg" /></a>
+    </div>
+
+    <div class="col-md-3">
+        <a id="example4"  href="images/gallery/2.jpg">
+            <img class="gallery_img"  alt="example4" src="images/gallery/2.jpg" /></a>
+    </div>
+
+
+
+
+<!--third one-->
+
+
+    <div class="col-md-3">  <a id="example1"  href="images/gallery/2.jpg">
+            <img alt="example1" class="gallery_img"  src="images/gallery/2.jpg" /></a>
+    </div>
+
+    <div class="col-md-3">
+        <a id="example2" href="images/gallery/2.jpg">
+            <img alt="example2" class="gallery_img"  src="images/gallery/2.jpg" /></a>
+    </div>
+
+    <div class="col-md-3">
+        <a id="example3"  href="images/gallery/2.jpg">
+            <img alt="example3" class="gallery_img"  src="images/gallery/2.jpg" /></a>
+    </div>
+
+    <div class="col-md-3">
+        <a id="example4"  href="images/gallery/2.jpg">
+            <img class="gallery_img"  alt="example4" src="images/gallery/2.jpg" /></a>
+    </div>
+
+
+
+
+<!--forth one-->
+
+
+    <div class="col-md-3">  <a id="example1"  href="images/gallery/2.jpg">
+            <img alt="example1" class="gallery_img"  src="images/gallery/2.jpg" /></a>
+    </div>
+
+    <div class="col-md-3">
+        <a id="example2" href="images/gallery/2.jpg">
+            <img alt="example2" class="gallery_img"  src="images/gallery/2.jpg" /></a>
+    </div>
+
+    <div class="col-md-3">
+        <a id="example3"  href="images/gallery/2.jpg">
+            <img alt="example3" class="gallery_img"  src="images/gallery/2.jpg" /></a>
+    </div>
+
+    <div class="col-md-3">
+        <a id="example4"  href="images/gallery/2.jpg">
+            <img class="gallery_img"  alt="example4" src="images/gallery/2.jpg" /></a>
+    </div>
+
+
+
+
+
+
+
+
+
 
 </div>
 </div>
